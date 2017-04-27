@@ -17,7 +17,6 @@
     <Content Include="wwwroot\components\ApiExample.vue" />
     <Content Include="wwwroot\components\FooterBar.vue" />
     <Content Include="wwwroot\components\Home.vue" />
-    <Content Include="wwwroot\components\InputExample.vue" />
     <Content Include="wwwroot\components\Inputs.vue" />
     <Content Include="wwwroot\components\Navbar.vue" />
     <Content Include="wwwroot\index.html" />
