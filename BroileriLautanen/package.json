@@ -23,7 +23,9 @@
     "vue-loader": "^9.0.0",
     "webpack": "^1.12.9",
     "webpack-stream": "^2.3.0",
-    "laravel-elixir": "^6.0.0-15"
+    "laravel-elixir": "^6.0.0-15",
+    "image-webpack-loader": "^3.3.0",
+    "file-loader": "^0.11.1"
   },
   "dependencies": {
     "vue": "^2.1.10",
